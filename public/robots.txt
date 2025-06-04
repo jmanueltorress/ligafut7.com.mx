@@ -1,0 +1,18 @@
+# Bloquea todas las páginas de la carpeta administrativa
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /css/
+Disallow: /js/
+
+# Permite el acceso a la carpeta de imágenes
+Allow: /images/
+
+# Permite el acceso a todos los recursos en la raíz
+Allow: /
+
+# Especifica la ubicación del sitemap
+Sitemap: https://tu-dominio.com/sitemap.xml
+
+
+Sitemap: https://ligafutbolsfuruguayo.netlify.app/sitemap.xml

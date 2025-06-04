@@ -1,0 +1,9 @@
+/*    /index.html 200
+/about/*    /about 200
+/soccer-ligafemenil/*    /soccer-ligafemenil 200
+/soccer-ligainfantil/*    /soccer-ligainfantil 200
+/soccer-ligavaronil/*    /soccer-ligavaronil 200
+/contact/*    /contact 200
+/privacy-policy/*    /privacy-policy 200 
+# Ruta de error 404
+/*    /404.html 404

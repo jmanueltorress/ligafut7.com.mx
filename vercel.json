@@ -1,0 +1,16 @@
+{
+    "redirects": [
+      { "source": "/index.html", "destination": "/", "statusCode": 200 },
+      { "source": "/about/*", "destination": "/about", "statusCode": 200 },
+      { "source": "/soccer-ligafemenil/*", "destination": "/soccer-ligafemenil", "statusCode": 200 },
+      { "source": "/soccer-ligainfantil/*", "destination": "/soccer-ligainfantil", "statusCode": 200 },
+      { "source": "/soccer-ligavaronil/*", "destination": "/soccer-ligavaronil", "statusCode": 200 },
+      { "source": "/contact/*", "destination": "/contact", "statusCode": 200 },
+      { "source": "/privacy-policy/*", "destination": "/privacy-policy", "statusCode": 200 }
+    ],
+    "rewrites": [
+      { "source": "/404", "destination": "/404.html" }
+    ],
+    "404": "/404.html"
+  }
+  
